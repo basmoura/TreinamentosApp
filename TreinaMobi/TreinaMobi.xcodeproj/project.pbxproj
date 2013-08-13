@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C3443D5D17B99C3000A49B13 /* fundo.png in Resources */ = {isa = PBXBuildFile; fileRef = C3443D5C17B99C3000A49B13 /* fundo.png */; };
+		C3443D6117B9B46C00A49B13 /* fb.png in Resources */ = {isa = PBXBuildFile; fileRef = C3443D5E17B9B46C00A49B13 /* fb.png */; };
+		C3443D6217B9B46C00A49B13 /* lin.png in Resources */ = {isa = PBXBuildFile; fileRef = C3443D5F17B9B46C00A49B13 /* lin.png */; };
+		C3443D6317B9B46C00A49B13 /* tw.png in Resources */ = {isa = PBXBuildFile; fileRef = C3443D6017B9B46C00A49B13 /* tw.png */; };
 		C36E6D8517B6A92E004058DB /* ListaInstrutoresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C36E6D8417B6A92E004058DB /* ListaInstrutoresViewController.m */; };
 		C3B7DA1F17AD7A240008380B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B7DA1E17AD7A240008380B /* UIKit.framework */; };
 		C3B7DA2117AD7A240008380B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B7DA2017AD7A240008380B /* Foundation.framework */; };
@@ -29,6 +33,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C3443D5C17B99C3000A49B13 /* fundo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fundo.png; sourceTree = "<group>"; };
+		C3443D5E17B9B46C00A49B13 /* fb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb.png; sourceTree = "<group>"; };
+		C3443D5F17B9B46C00A49B13 /* lin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lin.png; sourceTree = "<group>"; };
+		C3443D6017B9B46C00A49B13 /* tw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tw.png; sourceTree = "<group>"; };
 		C36E6D8317B6A92E004058DB /* ListaInstrutoresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaInstrutoresViewController.h; sourceTree = "<group>"; };
 		C36E6D8417B6A92E004058DB /* ListaInstrutoresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListaInstrutoresViewController.m; sourceTree = "<group>"; };
 		C3B7DA1B17AD7A240008380B /* TreinaMobi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TreinaMobi.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,6 +112,10 @@
 		C36E6D8917B6AE05004058DB /* Imagens */ = {
 			isa = PBXGroup;
 			children = (
+				C3443D5E17B9B46C00A49B13 /* fb.png */,
+				C3443D5F17B9B46C00A49B13 /* lin.png */,
+				C3443D6017B9B46C00A49B13 /* tw.png */,
+				C3443D5C17B99C3000A49B13 /* fundo.png */,
 				C3B7DA4C17AD7E990008380B /* 140-gradhat.png */,
 				C3B7DA4D17AD7E990008380B /* 140-gradhat@2x.png */,
 				C3B7DA4817AD7E890008380B /* 112-group.png */,
@@ -230,6 +242,10 @@
 				C3B7DA4B17AD7E890008380B /* 112-group@2x.png in Resources */,
 				C3B7DA4E17AD7E990008380B /* 140-gradhat.png in Resources */,
 				C3B7DA4F17AD7E990008380B /* 140-gradhat@2x.png in Resources */,
+				C3443D5D17B99C3000A49B13 /* fundo.png in Resources */,
+				C3443D6117B9B46C00A49B13 /* fb.png in Resources */,
+				C3443D6217B9B46C00A49B13 /* lin.png in Resources */,
+				C3443D6317B9B46C00A49B13 /* tw.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
